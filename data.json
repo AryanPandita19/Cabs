@@ -1,0 +1,136 @@
+{
+  "cabs": [
+    {
+      "cab_id": 1,
+      "driver_name": "John",
+      "cab_model": "Toyota Camry",
+      "location_coordinates": [40.7128, -74.006]
+    },
+    {
+      "cab_id": 2,
+      "driver_name": "Alice",
+      "cab_model": "Honda Accord",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 3,
+      "driver_name": "Bob",
+      "cab_model": "Ford Explorer",
+      "location_coordinates": [37.7749, -122.4194]
+    },
+    {
+      "cab_id": 4,
+      "driver_name": "Emily",
+      "cab_model": "Chevrolet Malibu",
+      "location_coordinates": [41.8781, -87.6298]
+    },
+    {
+      "cab_id": 5,
+      "driver_name": "Michael",
+      "cab_model": "Nissan Altima",
+      "location_coordinates": [29.7604, -95.3698]
+    },
+    {
+      "cab_id": 6,
+      "driver_name": "Jessica",
+      "cab_model": "Hyundai Sonata",
+      "location_coordinates": [33.749, -84.388]
+    },
+    {
+      "cab_id": 7,
+      "driver_name": "David",
+      "cab_model": "Kia Optima",
+      "location_coordinates": [32.7157, -117.1611]
+    },
+    {
+      "cab_id": 8,
+      "driver_name": "Sophia",
+      "cab_model": "Subaru Outback",
+      "location_coordinates": [47.6062, -122.3321]
+    },
+    {
+      "cab_id": 9,
+      "driver_name": "Matthew",
+      "cab_model": "GMC Terrain",
+      "location_coordinates": [39.9526, -75.1652]
+    },
+    {
+      "cab_id": 10,
+      "driver_name": "Emma",
+      "cab_model": "Jeep Cherokee",
+      "location_coordinates": [29.4241, -98.4936]
+    },
+    {
+      "cab_id": 11,
+      "driver_name": "Daniel",
+      "cab_model": "Volkswagen Jetta",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 12,
+      "driver_name": "Olivia",
+      "cab_model": "Mazda CX-5",
+      "location_coordinates": [40.7128, -74.006]
+    },
+    {
+      "cab_id": 13,
+      "driver_name": "Ethan",
+      "cab_model": "Audi A4",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 14,
+      "driver_name": "Ava",
+      "cab_model": "Honda Civic",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 15,
+      "driver_name": "Alexander",
+      "cab_model": "Ford Fusion",
+      "location_coordinates": [37.7749, -122.4194]
+    },
+    {
+      "cab_id": 16,
+      "driver_name": "Mia",
+      "cab_model": "Toyota Corolla",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 17,
+      "driver_name": "William",
+      "cab_model": "Chevrolet Impala",
+      "location_coordinates": [40.7128, -74.006]
+    },
+    {
+      "cab_id": 18,
+      "driver_name": "Abigail",
+      "cab_model": "Nissan Sentra",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 19,
+      "driver_name": "James",
+      "cab_model": "Hyundai Elantra",
+      "location_coordinates": [40.7128, -74.006]
+    },
+    {
+      "cab_id": 20,
+      "driver_name": "Charlotte",
+      "cab_model": "Kia Soul",
+      "location_coordinates": [37.7749, -122.4194]
+    },
+    {
+      "cab_id": 21,
+      "driver_name": "Logan",
+      "cab_model": "Subaru Legacy",
+      "location_coordinates": [34.0522, -118.2437]
+    },
+    {
+      "cab_id": 22,
+      "driver_name": "Harper",
+      "cab_model": "GMC Acadia",
+      "location_coordinates": [40.7128, -74.006]
+    }
+  ]
+}
